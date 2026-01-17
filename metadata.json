@@ -1,0 +1,7 @@
+{
+  "name": "webapp bán hàng Trung Quân",
+  "description": "Một giải pháp quản lý doanh nghiệp toàn diện bao gồm quản lý kho, bán hàng, nhập hàng, thu chi và công nợ, được tích hợp trí tuệ nhân tạo Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
